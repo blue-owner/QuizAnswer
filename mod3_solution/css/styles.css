@@ -55,7 +55,7 @@ body {
   font-size: 16px;
   line-height: 1.8; 
 }
-
+@media (max-width: 767px) {
 .navbar-default .navbar-collapse {
     background-color: #f8e8d1;  
     margin: 10px;
@@ -72,3 +72,4 @@ body {
     background-color: #f3d6ae;
     color: #000;
   }
+}
